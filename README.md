@@ -59,12 +59,12 @@ pip install pandas numpy matplotlib seaborn scikit-learn xgboost
 1. **Clone this repository to your local machine using:**
 
    ```bash
-   git clone https://github.com/sAMIuLLAH/Laptop-Price-Prediction.git
+   git clone https://github.com/SamiUllah568/Laptop-Price-Prediction
 
 # Navigate to the project directory:
 cd Laptop-Price-Prediction
 Open the Jupyter Notebook or Python script to start exploring the data and models.
-
+```
 ## **Data Analysis**
 In this section, the dataset is explored using visualizations and statistical analysis to identify trends and insights. The analysis includes:
 
